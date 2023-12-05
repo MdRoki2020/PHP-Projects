@@ -1,0 +1,34 @@
+body {
+
+}
+
+#loading-page{
+    height:100%;
+    width:100%;
+    position:fixed;
+    z-index:999999;
+    background:white;
+}
+
+#loader_gif{
+    height:250px;
+    width:350px;
+    margin:auto;
+    margin-top:210px;
+}
+
+.singleBox {
+    background: #a9a9a952;
+    padding: 10px 10px;
+    border: 2px solid #ff5200;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.postHeading.text-center {
+    font-family: initial;
+}
+.footerClass {
+    background: darkgray;
+    padding: 1px 0px;
+    font-style: italic;
+}

@@ -1,0 +1,103 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+body {
+    background: #E3E6E3;
+}
+#loading-page{
+    height:100%;
+    width:100%;
+    position:fixed;
+    z-index:999999;
+    background:white;
+}
+
+#loader_gif{
+    height:250px;
+    width:350px;
+    margin:auto;
+    margin-top:210px;
+}
+
+.mainbox{
+    font-size:27px;
+    cursor:pointer;
+    transition:all .4s;
+}
+.sidemenu {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 0px;
+    background-color: #222;
+    z-index: 1;
+    padding-top: 100px;
+    overflow-x: hidden;
+    transition:all .3s;
+}
+.sidemenu a {
+    padding: 8px 8px 8px 64px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #999;
+    display: block;
+}
+.sidemenu a:hover{
+    color:white;
+}
+.sidemenu .closebtn {
+    position: absolute;
+    top: 0px;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 32px;
+}
+
+.title{
+    margin-top:11px;
+}
+.inputBox {
+    background: #E3E6E3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-bottom: 1px solid cornflowerblue;
+}
+#exampleFormControlTextarea5 {
+    background: #E3E6E3;
+    border: none;
+    border-bottom: 1px solid cornflowerblue;
+}
+.note li {
+    font-family: revert;
+    font-size: unset;
+    margin-bottom: 15px;
+    list-style:none;
+    padding: 10px 10px;
+}
+.noted {
+    border: 1px solid cornflowerblue;
+}
+
+
+
+
+.footerSection {
+    background: darkgrey;
+    padding: 2px 0px;
+}
+.footerContain {
+    margin-top: 6px;
+    font-style: italic;
+}
+.footerClass {
+    background: darkgray;
+    padding: 1px 0px;
+    font-style: italic;
+}

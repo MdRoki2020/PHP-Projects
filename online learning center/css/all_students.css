@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+
+
+}
+
+#loading-page{
+    height:100%;
+    width:100%;
+    position:fixed;
+    z-index:999999;
+    background:white;
+}
+
+#loader_gif{
+    height:250px;
+    width:350px;
+    margin:auto;
+    margin-top:210px;
+}
+
+
+
+
+.footerSection {
+    background: darkgrey;
+    padding: 2px 0px;
+}
+.footerContain {
+    margin-top: 6px;
+    font-style: italic;
+}
+.footerClass {
+    background: darkgray;
+    padding: 1px 0px;
+    font-style: italic;
+    margin-top: 28px !important;
+}

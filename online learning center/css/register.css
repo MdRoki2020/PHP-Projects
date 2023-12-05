@@ -1,0 +1,81 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+body {
+    background: #E3E6E3;
+}
+#loading-page{
+    height:100%;
+    width:100%;
+    position:fixed;
+    z-index:999999;
+    background:white;
+}
+
+#loader_gif{
+    height:250px;
+    width:350px;
+    margin:auto;
+    margin-top:210px;
+}
+.title{
+    margin-top:65px;
+}
+.inputBox {
+    background: #E3E6E3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-bottom: 1px solid cornflowerblue;
+}
+#exampleFormControlTextarea5 {
+    background: #E3E6E3;
+    border: none;
+    border-bottom: 1px solid cornflowerblue;
+}
+.note li {
+    font-family: revert;
+    font-size: unset;
+    margin-bottom: 15px;
+    list-style:none;
+    padding: 10px 10px;
+}
+.noted {
+    border: 1px solid cornflowerblue;
+}
+
+.popupMsz1 {
+    text-align: center;
+    color: #2ba22b;
+    font-weight: 500;
+}
+
+.popupMsz2 {
+    text-align: center;
+    color: red;
+    font-weight: 500;
+}
+
+
+
+
+
+
+.footerSection {
+    background: darkgrey;
+    padding: 2px 0px;
+}
+.footerContain {
+    margin-top: 6px;
+    font-style: italic;
+}
+.footerClass {
+    background: darkgray;
+    padding: 1px 0px;
+    font-style: italic;
+}

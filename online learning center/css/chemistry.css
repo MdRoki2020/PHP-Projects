@@ -1,0 +1,23 @@
+body {
+    background: #f5f6f6;
+}
+
+#loading-page{
+    height:100%;
+    width:100%;
+    position:fixed;
+    z-index:999999;
+    background:white;
+}
+
+#loader_gif{
+    height:250px;
+    width:350px;
+    margin:auto;
+    margin-top:210px;
+}
+
+.tableHeading.text-center {
+    margin-bottom: 25px;
+    font-family: initial;
+}

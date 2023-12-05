@@ -1,0 +1,10 @@
+[07-Feb-2022 19:12:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'userName'@'localhost' (using password: YES) in /home/rsrokiin/munemAcademy.rsroki.info/config.php on line 15
+[07-Feb-2022 19:12:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsrokiin/munemAcademy.rsroki.info/physics.php on line 51
+[07-Feb-2022 19:12:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rsrokiin/munemAcademy.rsroki.info/physics.php on line 52
+[07-Feb-2022 19:14:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rsrokiin_userName'@'localhost' (using password: YES) in /home/rsrokiin/munemAcademy.rsroki.info/config.php on line 15
+[07-Feb-2022 19:14:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsrokiin/munemAcademy.rsroki.info/physics.php on line 51
+[07-Feb-2022 19:14:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rsrokiin/munemAcademy.rsroki.info/physics.php on line 52
+[07-Feb-2022 19:14:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rsrokiin_userName'@'localhost' (using password: YES) in /home/rsrokiin/munemAcademy.rsroki.info/config.php on line 15
+[07-Feb-2022 19:14:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/rsrokiin/munemAcademy.rsroki.info/physics.php on line 51
+[07-Feb-2022 19:14:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/rsrokiin/munemAcademy.rsroki.info/physics.php on line 52
+[15-Feb-2022 04:48:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/rsrokiin/munemAcademy.rsroki.info/logout core.php on line 2

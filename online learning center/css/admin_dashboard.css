@@ -1,0 +1,37 @@
+.Bar {
+    background: #800080b8;
+    color: white;
+    padding: 10px 0px 1px 0px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px 0px black;
+}
+.Bar2 {
+    background: #6c7704ba;
+    color: white;
+    padding: 10px 0px 1px 0px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px 0px black;
+}
+.Bar3 {
+    background: #087532b8;
+    color: white;
+    padding: 10px 0px 1px 0px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px 0px black;
+}
+
+
+.footerSection {
+    background: darkgrey;
+    padding: 2px 0px;
+}
+.footerContain {
+    margin-top: 6px;
+    font-style: italic;
+}
+.footerClass {
+    background: darkgray;
+    padding: 1px 0px;
+    font-style: italic;
+    margin-top: 18px !important;
+}

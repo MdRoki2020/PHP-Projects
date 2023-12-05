@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+body {
+    background: #E3E6E3;
+}
+#loading-page{
+    height:100%;
+    width:100%;
+    position:fixed;
+    z-index:999999;
+    background:white;
+}
+
+#loader_gif{
+    height:250px;
+    width:350px;
+    margin:auto;
+    margin-top:210px;
+}
+
+.mainbox{
+    font-size:27px;
+    cursor:pointer;
+    transition:all .4s;
+}
